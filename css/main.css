@@ -11831,11 +11831,11 @@ li.fancybox-thumbs-loading {
 }
 
 .navigation-buttons span.prev {
-    background: #222 url(nav-prev.png) no-repeat 5px 5px
+    background: #222 url(../assets/nav-prev.png) no-repeat 5px 5px
 }
 
 .navigation-buttons span.next {
-    background: #222 url(nav-next.png) no-repeat 5px 5px
+    background: #222 url(../assets/nav-next.png) no-repeat 5px 5px
 }
 
 .navigation-buttons span:hover {
@@ -22114,7 +22114,7 @@ li.slide.s-first-visible-section .s-section:not(.no-resize).s-cta-section,li.sli
 }
 
 #header-container .header .power {
-    background: url(button-white.f7d0623c6df4900536d315a7c6f49a82.png) 50%;
+    background: url(../assets/button-white.f7d0623c6df4900536d315a7c6f49a82.png) 50%;
     bottom: -25px;
     height: 50px;
     left: 50%;
